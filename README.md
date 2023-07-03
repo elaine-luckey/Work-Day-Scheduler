@@ -2,7 +2,7 @@
 Create a work day scheduler using jQuery and Day.js.
 
 ## Purpose:
-The purpose of this challenge is to create a work day scheduler 
+The purpose of this challenge is to create a work day scheduler that updates every second of the day to show the current, past and future activities of the day. The colors will change if the time block is in the current, past or future. The user should be able to click the save button and the schedule will store in the local storage of the browser even when the page is refreshed. The current date and time down to the second will be displaying at the top of the page on the header.
 
 ## Credits:
 Classmates at the UNC Coding Bootcamp
