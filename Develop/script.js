@@ -1,5 +1,5 @@
 $(function () {
-    // dayjs is a function from Day.js library to get the current date and time
+    // dayjs is a function from Day.js library to get the current date and time in 24hr format
     const hour = dayjs().format('HH');
   
     // Set the color of the time block 
