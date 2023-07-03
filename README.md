@@ -16,5 +16,3 @@ https://elaine-luckey.github.io/Work-Day-Scheduler/
 ## Screenshots of Deployed Application
 
 ![work-day-scheduler](https://github.com/elaine-luckey/Work-Day-Scheduler/assets/134161776/6391b636-fc81-455b-b26e-bc40d58f8559)
-
-![active-time](https://github.com/elaine-luckey/Work-Day-Scheduler/assets/134161776/93404d48-ec51-4a3b-b014-fa3b594f9f57)
